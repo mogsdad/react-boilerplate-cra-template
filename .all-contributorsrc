@@ -31,6 +31,15 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "mogsdad",
+      "name": "David Bingham",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1707731",
+      "profile": "https://github.com/mogsdad",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 8,
